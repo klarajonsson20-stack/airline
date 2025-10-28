@@ -201,3 +201,8 @@ if st.sidebar.button("Predict"):
 else:
     st.info("ℹ️ Please fill out the survey form in the sidebar and click **Predict** to see the satisfaction prediction.")
     
+"""
+Chat GPT used for debugging and code improvement suggestions. 
+Copilot used in VS code to suggest code completions.
+All code have been manually reviewed and edited by me.
+"""
